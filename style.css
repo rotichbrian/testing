@@ -1,0 +1,9 @@
+.errorContainer {
+    display: none; /* Initially hide the error container */
+    /* Your styling for error container */
+}
+
+.errorDisplay {
+    /* Your styling for error message */
+}
+
